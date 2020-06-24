@@ -1,4 +1,4 @@
-# Do chmod +X bechmarking_script.sh after cloning/pulling to make it executable
+# Do chmod +X benchmarking_script.sh after cloning/pulling to make it executable
 rm -rf video
 mkdir video
 make
